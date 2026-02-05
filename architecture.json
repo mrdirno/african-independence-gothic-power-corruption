@@ -1,0 +1,160 @@
+{
+  "book_id": "african-independence-gothic-power-corruption",
+  "title": "THE MIDNIGHT SUN",
+  "tagline": "A revolutionary built a nation from a dream, but the dreamer has returned to collect his debt.",
+  "target_words": 70000,
+  "actual_words": 74616,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corruption of Revolutionary Ideals",
+    "Architecture as Power and Prison",
+    "The Ghosts of Founding Sins",
+    "The Gothic State: Brutalism and Decay"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Rain and the Tower",
+      "words": 3100
+    },
+    {
+      "ch": 2,
+      "title": "The Architect's Covenant",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The Grand Ballroom Masquerade",
+      "words": 3200
+    },
+    {
+      "ch": 4,
+      "title": "Echoes in the Sub-Level",
+      "words": 2800
+    },
+    {
+      "ch": 5,
+      "title": "The Captain's Ledger",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "Major Ransom's Calculus",
+      "words": 3000
+    },
+    {
+      "ch": 7,
+      "title": "The Old Quarter's Pulse",
+      "words": 3300
+    },
+    {
+      "ch": 8,
+      "title": "Soviet Advice, French Gold",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "The Poet in the Bunker",
+      "words": 3150
+    },
+    {
+      "ch": 10,
+      "title": "Foundational Lies",
+      "words": 3050
+    },
+    {
+      "ch": 11,
+      "title": "The Beacon's First Sweep",
+      "words": 2900
+    },
+    {
+      "ch": 12,
+      "title": "A Crack in the Concrete",
+      "words": 3200
+    },
+    {
+      "ch": 13,
+      "title": "The Leopard's Memory",
+      "words": 3100
+    },
+    {
+      "ch": 14,
+      "title": "The Sieve at the Border",
+      "words": 2850
+    },
+    {
+      "ch": 15,
+      "title": "Ballroom Betrayals",
+      "words": 3400
+    },
+    {
+      "ch": 16,
+      "title": "The Covenant Unveiled",
+      "words": 3250
+    },
+    {
+      "ch": 17,
+      "title": "Gears Grinding with Sand",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "The Vigilant Searchlight",
+      "words": 3100
+    },
+    {
+      "ch": 19,
+      "title": "A Nation's Circuit Board",
+      "words": 3300
+    },
+    {
+      "ch": 20,
+      "title": "The Necessary Excision",
+      "words": 3000
+    },
+    {
+      "ch": 21,
+      "title": "Blood in the Red Earth",
+      "words": 3150
+    },
+    {
+      "ch": 22,
+      "title": "The Watchman's Throne",
+      "words": 2900
+    },
+    {
+      "ch": 23,
+      "title": "The Debt Comes Due",
+      "words": 3500
+    },
+    {
+      "ch": 24,
+      "title": "Dawn Without Light",
+      "words": 3366
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene from Kwame Asare's perspective during his detention and journey to the Tower, exploring the 'original covenant' he carries.",
+      "Create a dossier from Major Ransom's files on a secondary character (e.g., the Soviet advisor, a soldier at the checkpoint), revealing the state's pervasive surveillance.",
+      "Draft a 'lost' poem by Kwame Asare, written in exile, that metaphorically predicts the Tower's corruption.",
+      "Write a chapter from the perspective of the city itself—the old quarters resisting the geometric new sectors—as a living, gothic entity."
+    ],
+    "technical": [
+      "Build a 3D model or interactive map of the People's Unity Tower, detailing its symbolic architecture (sub-level archive, viewing chamber, ballroom).",
+      "Create a 'propaganda vs. reality' generator that takes state broadcaster announcements (like 'The Midnight Sun') and outputs the grim, underlying truth."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Chinua Achebe",
+      "Frantz Fanon",
+      "Shirley Jackson",
+      "J.G. Ballard"
+    ]
+  },
+  "cover_prompt": "A solitary, monumental figure of a founding revolutionary, carved from dark, weathered stone, stands with one hand outstretched in a crumbling gesture of power, while spectral, shadowy hands emerge from the concrete base to pull him down into the architecture itself, [Detailed Scene & Context: set against the decaying facade of a colossal, rain-slicked brutalist government complex under a bruised twilight sky, where the geometric shadows cast by the structure form prison bars across the plaza], [Artistic Style & Medium: in the atmospheric style of Zdzisław Beksiński's dystopian surrealism and the stark, imposing architectural detail of François Schuiten, rendered in hyper-detailed matte painting and oil texture], [Composition & Camera: book cover framing, a low-angle, centered composition that emphasizes the towering, oppressive scale of the building and the trapped figure, creating a sense of awe and dread], [Lighting & Color Palette: dramatic chiaroscuro lighting from a hidden, dying sun, casting long, sharp shadows, with a color palette of cold concrete grays, oxidized bronze greens, and the deep crimson of the fading sky bleeding into black], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
